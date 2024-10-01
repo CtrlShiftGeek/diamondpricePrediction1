@@ -1,0 +1,4 @@
+[ 2024-10-01 23:43:14,810 ] 27 root - INFO - Data Ingestion Method Starts
+[ 2024-10-01 23:43:14,961 ] 31 root - INFO - Dataset read as Pandas Dataframe
+[ 2024-10-01 23:43:15,785 ] 36 root - INFO - Raw data is created
+[ 2024-10-01 23:43:16,611 ] 43 root - INFO - Ingestion of Data is completed
